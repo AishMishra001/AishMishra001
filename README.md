@@ -23,6 +23,11 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
+    <li>Tailwind CSS</li>
+    <li>React</li>
+    <li>Node JS</li>
+    <li>Expess js</li>
+    <li>Mongodb</li>
   </ul>
   
 
