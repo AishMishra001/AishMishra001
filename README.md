@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aish Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mern developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🌱 I’m currently learning **Typescript**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aishlunatic001@gmail.com**
 
-- ⚡ Fun fact **I live by one rule : If I don't have to do it I won't do it , If I have to I will do it as quickly as possible**
+- ⚡**I live by one rule : If I don't have to do it I won't do it , If I have to I will do it as quickly as possible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
